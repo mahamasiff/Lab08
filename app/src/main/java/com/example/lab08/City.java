@@ -1,5 +1,7 @@
 package com.example.lab08;
 
+/** added a comment for commit
+ */
 public class City {
     private String city;
     private String province;
